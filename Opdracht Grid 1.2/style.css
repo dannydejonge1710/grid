@@ -60,8 +60,8 @@
 			margin-left: 8px;
 			width: 670px;
 			height: 100%;
-			padding-top: 28px;
-			padding-bottom: 90px;
+			padding-top: 29px;
+			padding-bottom: 94px;
 			padding-left: 10px;
 			padding-right: 10px;
 			
@@ -75,19 +75,19 @@
 			width: 290px;
 			height: 100%;
 			padding-top: 28px;
-			padding-bottom: 7px;
+			padding-bottom: 9px;
 			padding-left: 10px;
 			padding-right: 8px;
 			
 
 		}
 
-			main article {
+		main article {
 			background-color: rgba(200,200,200,0.6);
 			width: 100%;
 			margin: 0 auto;
 			margin-bottom: 20px;
-			padding-bottom: 14px;
+			padding-bottom: 13px;
 			height: 100%;
 				
 		}
@@ -124,6 +124,8 @@
 			font-weight: bold;
 			padding-top: 5px;
 			padding-bottom: 5px;
+			height: 12px;
+			line-height: 14px;
 		}
 
 		article p{
